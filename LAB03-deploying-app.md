@@ -55,4 +55,4 @@ $ kubectl get services -n <eduxx>
 
 
 # NEXT STEP
--> [LAB04. Kubernetes 대시보드에서 리소스 확인하기]()  
+-> [LAB04. Kubernetes 대시보드에서 리소스 확인하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB04-dashboard.md)  

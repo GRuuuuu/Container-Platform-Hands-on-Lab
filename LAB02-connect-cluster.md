@@ -63,4 +63,4 @@ $ kubectl get nodes
 이제 로컬 환경에서 IBM Cloud 에서 생성된 kubernetes 클러스터에 액세스 할 수 있습니다.    
 
 # NEXT STEP
--> [LAB03. IKS클러스터에 애플리케이션 배포하기]()  
+-> [LAB03. IKS클러스터에 애플리케이션 배포하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB03-deploying-app.md)  

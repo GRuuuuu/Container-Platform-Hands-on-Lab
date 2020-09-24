@@ -28,4 +28,4 @@
 
 
 # NEXT STEP
--> [LAB05. 애플리케이션 실행하기]()  
+-> [LAB05. 애플리케이션 실행하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB05-application.md)  

@@ -12,7 +12,7 @@
 본 실습에서는 아래와 같은 서비스를 사용합니다.  
 [Kubernetes Service](https://cloud.ibm.com/kubernetes/catalog/cluster?CAMPAIGN_CODE)  
 [DockerHub](https://hub.docker.com/)  
-[IBM Cloud Container Registry](https://www.ibm.com/kr-ko/cloud/container-registry)  
+[IBM Cloud Container Registry](https://www.ibm.com/kr-ko/cloud/container-registry)(예정)  
 
 
 ## 구성 아키텍처
@@ -20,6 +20,6 @@
 
 1. 개발자가 IBM Cloud Developer Tools를 사용하여 스타터 애플리케이션을 생성합니다.
 2. 애플리케이션을 빌드하면 컨테이너 이미지가 생성됩니다.
-3. 이 이미지가 IBM Cloud Container Registry의 네임스페이스에 푸시됩니다.
+3. 이 이미지가 IBM Cloud Container Registry의 네임스페이스에 푸시됩니다.(현재는 Docker Hub를 사용합니다.)
 4. 애플리케이션이 Kubernetes 클러스터에 배치됩니다.
 5. 사용자가 애플리케이션에 액세스합니다.

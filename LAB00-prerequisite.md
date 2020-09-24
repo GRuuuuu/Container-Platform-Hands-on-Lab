@@ -133,4 +133,4 @@ $ ibmcloud target
 ~~~
 
 # NEXT STEP
--> [LAB01. 이미지 Pull 받아서 Docker Hub에 Push하기]()
+-> [LAB01. 이미지 Pull 받아서 Docker Hub에 Push하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB01-image-pull-push.md)

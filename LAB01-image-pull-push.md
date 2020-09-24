@@ -23,4 +23,4 @@ $ docker push {DockerID}/kubeapp:latest
 ~~~
 
 # NEXT STEP
--> [LAB02. IKS 클러스터 연결 및 구성]()
+-> [LAB02. IKS 클러스터 연결 및 구성](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB02-connect-cluster.md)

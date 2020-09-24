@@ -64,5 +64,5 @@ $ kubectl get pods -n <eduxx>
 ![image](https://user-images.githubusercontent.com/15958325/94148229-519afe00-feb1-11ea-9ac5-9b01a1b1dab4.png)  
 
 # NEXT STEP
--> [LAB07. 리소스 삭제하기]()  
+-> [LAB07. 리소스 삭제하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB07-delete-resource.md)  
 

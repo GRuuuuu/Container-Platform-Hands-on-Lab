@@ -64,4 +64,4 @@ $ kubectl get services -n <eduxx>
 ![image](https://user-images.githubusercontent.com/15958325/94145773-04695d00-feae-11ea-8dcb-138dfb350aa0.png)  
 
 # NEXT STEP
--> [LAB06. 애플리케이션 확장해보기]()  
+-> [LAB06. 애플리케이션 확장해보기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB06-scale-out.md)  
