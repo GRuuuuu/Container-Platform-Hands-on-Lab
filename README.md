@@ -23,3 +23,7 @@
 3. 이 이미지가 IBM Cloud Container Registry의 네임스페이스에 푸시됩니다.(현재는 Docker Hub를 사용합니다.)
 4. 애플리케이션이 Kubernetes 클러스터에 배치됩니다.
 5. 사용자가 애플리케이션에 액세스합니다.
+
+
+# NEXT STEP
+-> [LAB00. Prerequisite](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB00-prerequisite.md)

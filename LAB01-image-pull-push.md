@@ -17,6 +17,14 @@ $ docker pull kongru/kubeapp
 $ docker tag kongru/kubeapp:latest {DockerID}/kubeapp:v1.0.0
 ~~~
 
+확인 :  
+~~~sh
+$ docker images
+~~~
+![image](https://user-images.githubusercontent.com/15958325/94227267-edba1900-ff34-11ea-8cae-132abc9147c0.png)  
+
+
+
 ## 4. Registry에 이미지 Push
 ~~~sh
 $ docker push {DockerID}/kubeapp:latest
