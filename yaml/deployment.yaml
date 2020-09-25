@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: < app 이름 >
-        image: < docker ID>/kubeapp:v1.0.0
+        image: < docker ID>/< app 이름 >:v1.0.0
         ports:
         - containerPort: 80
         readinessProbe:

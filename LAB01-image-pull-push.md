@@ -14,21 +14,23 @@ $ docker pull kongru/kubeapp
 
 ## 3. 이미지 태그 변경
 자신의 도커 id로 태그를 변경해주세요.  
+이미지의 이름은 부여받은 번호를 참고하여 eduxxkubeapp으로 지정해주세요. (ex. `edu16kubeapp`)  
 ~~~sh
-$ docker tag kongru/kubeapp:latest {DockerID}/kubeapp:v1.0.0
+$ docker tag kongru/kubeapp:latest {DockerID}/{eduxx}kubeapp:v1.0.0
 ~~~
 
 확인 :  
 ~~~sh
 $ docker images
 ~~~
-![image](https://user-images.githubusercontent.com/15958325/94227267-edba1900-ff34-11ea-8cae-132abc9147c0.png)  
+![image](https://user-images.githubusercontent.com/15958325/94228843-e72da080-ff38-11ea-9b4c-86e30cd51b0d.png)  
+
 
 
 
 ## 4. Registry에 이미지 Push
 ~~~sh
-$ docker push {DockerID}/kubeapp:latest
+$ docker push {DockerID}/{eduxx}kubeapp:latest
 ~~~
 
 # NEXT STEP
