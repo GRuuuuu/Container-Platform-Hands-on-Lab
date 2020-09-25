@@ -13,6 +13,7 @@ $ docker pull kongru/kubeapp
 ~~~
 
 ## 3. 이미지 태그 변경
+자신의 도커 id로 태그를 변경해주세요.  
 ~~~sh
 $ docker tag kongru/kubeapp:latest {DockerID}/kubeapp:v1.0.0
 ~~~
