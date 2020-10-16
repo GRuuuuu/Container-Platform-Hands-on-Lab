@@ -1,8 +1,7 @@
 # Container-Platform-Hands-on-Lab
 
 ## 실습의 목표
-- IBM Cloud Kubernetes Service( 이하 IKS ) 클러스터를 생성합니다. 
-- 스타터 애플리케이션을 작성합니다. 
+
 - 애플리케이션을 IKS 클러스터에 배치합니다.
 - 클러스터의 상태 및 로그를 모니터합니다.
 - Kubernetes 팟(Pod)을 스케일링합니다.
