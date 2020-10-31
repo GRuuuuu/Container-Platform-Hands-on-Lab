@@ -1,4 +1,4 @@
-# LAB02. IKS 클러스터 연결 및 구성
+# LAB01. IKS 클러스터 연결 및 구성
 ## 1. WEB으로 클러스터 액세스하기
 
 1. IBM Cloud Portal 에서 사용자 계정을 "1653185 - IBM" 로 변경 합니다.    
@@ -63,4 +63,4 @@ $ kubectl get nodes
 이제 로컬 환경에서 IBM Cloud 에서 생성된 kubernetes 클러스터에 액세스 할 수 있습니다.    
 
 # NEXT STEP
--> [LAB03. IKS클러스터에 애플리케이션 배포하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB03-deploying-app.md)  
+-> [LAB02. IKS클러스터에 애플리케이션 배포하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB02-deploying-app.md)  

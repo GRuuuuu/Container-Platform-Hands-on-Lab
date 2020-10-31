@@ -64,17 +64,7 @@ $ ibmcloud plugin list
 ![image](https://user-images.githubusercontent.com/15958325/94016418-0b7a6780-fde9-11ea-8509-2303f1cfb88d.png)
 
 
-## 3. Docker 설치 및 Docker Hub 계정 생성
-다음 링크를 참조하여 설치와 도커 계정을 생성해줍니다.    
---> [Get Started with Docker](https://www.docker.com/get-started)
-
-도커 설치 확인 :   
-~~~sh
-$ docker -v
-~~~
-
-![image](https://user-images.githubusercontent.com/15958325/94016909-b5f28a80-fde9-11ea-951f-01cb1565c96d.png)  
 
 
 # NEXT STEP
--> [LAB01. 이미지 Pull 받아서 Docker Hub에 Push하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB01-image-pull-push.md)
+-> [LAB01. IKS 클러스터 연결 및 구성](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB01-connect-cluster.md)

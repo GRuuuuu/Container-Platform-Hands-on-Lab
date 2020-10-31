@@ -1,4 +1,4 @@
-# LAB03. IKS클러스터에 애플리케이션 배포하기
+# LAB02. IKS클러스터에 애플리케이션 배포하기
 Registry 에 푸시한 이미지를 이용하여 IKS 클러스터에 배포합니다. 
 
 ## 1. Deployment.yaml파일 수정
@@ -6,17 +6,15 @@ Registry 에 푸시한 이미지를 이용하여 IKS 클러스터에 배포합�
 IKS 에 배포하기 위해 deployment.yaml 파일을 생성합니다.    
 아래 샘플 파일을 다운로드 받아,  애플리케이션 디렉토리 아래에 복사해서 넣습니다.   
 
-[Deployment.yaml](https://raw.githubusercontent.com/GRuuuuu/Container-Platform-Hands-on-Lab/master/yaml/deployment.yaml)
+[Deployment.yaml](https://ibm.box.com/s/sukwx04nmedq8h7ljhan5sqeg2bsqv0s)
 
 deployment.yaml 파일을 열어 Kubernetes 의 오브젝트 ( Deployment & Service ) 의 이름 및 애플리케이션 이미지 위치를 설정합니다.   
 
 ### 수정 해야 하는 부분
 - < app 이름 >  -> eduxxkubeapp          
-(xx 는 01 ~ 16 번사이의 자신에게 부여된 번호 이며, 수정할 부분은 모두 8군데 입니다. )  
-- < docker ID> -> 자신의 Docker Hub ID  
-( 수정할 부분은 모두 1군데 입니다. )  
+(xx 는 01 ~ 16 번사이의 자신에게 부여된 번호 이며, 수정할 부분은 모두 7군데 입니다. )  
 
-<img src="https://user-images.githubusercontent.com/15958325/94229381-535cd400-ff3a-11ea-960c-3fba0458fb63.png" width="1000px">  
+<img src="https://user-images.githubusercontent.com/15958325/97773682-3351ad80-1b95-11eb-8e5f-65fdebcd8b78.PNG" width="1000px">  
 
 ## 2. Namespace 생성
 부여받은 번호를 edu뒤에 붙여 유니크한 네임스페이스를 생성해줍니다.  
@@ -55,4 +53,4 @@ $ kubectl get services -n <eduxx>
 
 
 # NEXT STEP
--> [LAB04. Kubernetes 대시보드에서 리소스 확인하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB04-dashboard.md)  
+-> [LAB03. Kubernetes 대시보드에서 리소스 확인하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB03-dashboard.md)  

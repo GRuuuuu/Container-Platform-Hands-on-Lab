@@ -1,4 +1,4 @@
-# LAB06. 애플리케이션 확장해보기
+# LAB05. 애플리케이션 확장해보기
 애플리케이션의 워크로드가 증가하면,  Pod의 복제본 수를 수동으로 늘릴 수 있습니다. 복제본은 Replica Set 으로 관리 됩니다.    
 Replicat Set 을 설정하는 방법은 `kubernetes 대시보드` 또는 `kubectl` 명령어를 이용합니다.   
 두 가지 중, 하나의 방법으로 실행해 보세요.    
@@ -64,5 +64,5 @@ $ kubectl get pods -n <eduxx>
 ![image](https://user-images.githubusercontent.com/15958325/94148229-519afe00-feb1-11ea-9ac5-9b01a1b1dab4.png)  
 
 # NEXT STEP
--> [LAB07. 리소스 삭제하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB07-delete-resource.md)  
+-> [LAB06. 리소스 삭제하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB06-delete-resource.md)  
 

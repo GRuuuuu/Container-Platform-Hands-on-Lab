@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: < app 이름 >
-        image: < docker ID>/< app 이름 >:v1.0.0
+        image: kongru/kubeapp:latest
         ports:
         - containerPort: 80
         readinessProbe:

@@ -1,4 +1,4 @@
-# LAB04. Kubernetes 대시보드에서 리소스 확인하기
+# LAB03. Kubernetes 대시보드에서 리소스 확인하기
 지금까지 IBM Cloud CLI 환경으로 애플리케이션 배포 및 생성된 리소스 상태 확인을 해보았습니다.   
 이번 단계에서는 Kubernetes 대시보드를 이용하여 리소스 상태를 확인해 보겠습니다. 
 
@@ -28,4 +28,4 @@
 
 
 # NEXT STEP
--> [LAB05. 애플리케이션 실행하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB05-application.md)  
+-> [LAB04. 애플리케이션 실행하기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB04-application.md)  

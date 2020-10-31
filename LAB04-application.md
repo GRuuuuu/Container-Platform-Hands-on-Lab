@@ -1,4 +1,4 @@
-# LAB05. 애플리케이션 실행하기
+# LAB04. 애플리케이션 실행하기
 Kubernetes 에 배포된 애플리케이션을 실행해 보도록 하겠습니다.   
 외부에서 해당 서비스를 호출하는 방법으로는 `Nodeport` 를 사용해볼 예정이며,  배포된 애플리케이션의 서비스를 호출하기 위한 IP 및 포트 정보는 아래와 같이 두가지 방법을 이용하여 검색해 볼 수 있습니다.  
 
@@ -64,4 +64,4 @@ $ kubectl get services -n <eduxx>
 ![image](https://user-images.githubusercontent.com/15958325/94145773-04695d00-feae-11ea-8dcb-138dfb350aa0.png)  
 
 # NEXT STEP
--> [LAB06. 애플리케이션 확장해보기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB06-scale-out.md)  
+-> [LAB05. 애플리케이션 확장해보기](https://github.com/GRuuuuu/Container-Platform-Hands-on-Lab/blob/master/LAB05-scale-out.md)  
