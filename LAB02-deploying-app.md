@@ -6,7 +6,7 @@ Registry 에 푸시한 이미지를 이용하여 IKS 클러스터에 배포합�
 IKS 에 배포하기 위해 deployment.yaml 파일을 생성합니다.    
 아래 샘플 파일을 다운로드 받아,  애플리케이션 디렉토리 아래에 복사해서 넣습니다.   
 
-[Deployment.yaml](https://ibm.box.com/s/sukwx04nmedq8h7ljhan5sqeg2bsqv0s)
+[Deployment.yaml](https://ibm.box.com/s/wzidb58pocvjtqw5emx84b7znghsgkza)
 
 deployment.yaml 파일을 열어 Kubernetes 의 오브젝트 ( Deployment & Service ) 의 이름 및 애플리케이션 이미지 위치를 설정합니다.   
 
